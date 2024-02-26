@@ -1,0 +1,2 @@
+D:\Овчарук_Марков 215\18_1\obj\Debug\18_1.csproj.AssemblyReference.cache
+D:\Овчарук_Марков 215\18_1\obj\Debug\18_1.csproj.CoreCompileInputs.cache
