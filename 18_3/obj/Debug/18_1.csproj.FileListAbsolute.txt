@@ -1,0 +1,10 @@
+D:\Овчарук_Марков 215\18_1\obj\Debug\18_1.csproj.AssemblyReference.cache
+D:\Овчарук_Марков 215\18_1\obj\Debug\18_1.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Downloads\18__1-main\18__1-main\18_3\bin\Debug\18_1.exe.config
+C:\Users\Kirill\Downloads\18__1-main\18__1-main\18_3\bin\Debug\18_1.exe
+C:\Users\Kirill\Downloads\18__1-main\18__1-main\18_3\bin\Debug\18_1.pdb
+C:\Users\Kirill\Downloads\18__1-main\18__1-main\18_3\obj\Debug\18_1.csproj.AssemblyReference.cache
+C:\Users\Kirill\Downloads\18__1-main\18__1-main\18_3\obj\Debug\18_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kirill\Downloads\18__1-main\18__1-main\18_3\obj\Debug\18_1.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Downloads\18__1-main\18__1-main\18_3\obj\Debug\18_1.exe
+C:\Users\Kirill\Downloads\18__1-main\18__1-main\18_3\obj\Debug\18_1.pdb
